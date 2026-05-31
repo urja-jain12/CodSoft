@@ -12,6 +12,9 @@ Through these projects, I gained hands-on experience with classification problem
 
 Movies belong to different genres such as **Action, Drama, Comedy, Thriller, Horror**, and many more. The objective of this project is to build a machine learning model capable of predicting the genre of a movie based on its plot summary.
 
+### Dataset (
+Dataset: [Movie Genre Classification](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+
 ## Approach
 
 - Cleaned and preprocessed movie descriptions using **Natural Language Processing (NLP)** techniques.
@@ -38,6 +41,10 @@ The model successfully classified movie genres based on plot descriptions and ac
 
 Financial institutions process millions of transactions every day, making it difficult to manually identify fraudulent activities. The objective of this project is to build a machine learning model that can automatically detect potentially fraudulent transactions.
 
+### Dataset (
+Dataset: [Movie Genre Classification](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+
+
 ## Approach
 
 - Preprocessed the dataset by handling categorical and numerical features.
@@ -63,6 +70,10 @@ The trained model successfully identified fraudulent transactions with high accu
 ## Problem Statement
 
 Customer retention is a major challenge for businesses. Predicting which customers are likely to leave a service helps organizations take proactive measures to improve customer satisfaction and reduce churn.
+
+### Dataset (
+Dataset: [Movie Genre Classification](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+
 
 ## Approach
 
